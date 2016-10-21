@@ -1,0 +1,2 @@
+# SETI
+minicurso Git
