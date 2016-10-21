@@ -9,5 +9,5 @@ int subtrai(int a, int b){
 }
 
 int main(inr argc, char **argv){
-	std::cout << "o programa ta funcionando"
+	std::cout << "ta funcionando"
 }
