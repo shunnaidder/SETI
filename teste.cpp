@@ -4,6 +4,10 @@ int soma(int a, int b){
 	return a+b;
 }
 
+int subtrai(int a, int b){
+	return a-b;
+}
+
 int main(inr argc, char **argv){
-	std::cout << "Meu programa ta funcionando"
+	std::cout << "o programa ta funcionando"
 }
